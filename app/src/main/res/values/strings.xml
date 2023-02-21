@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Learn_Chinese_App</string>
+    <string name="main_et_hint">Please enter the query Chinese characters...</string>
+    <string name="main_tv_pinyin">Chinese Spell Search</string>
+    <string name="main_tv_bushou">Radicals in Chinese Characters Search</string>
+    <string name="main_tv_chengyu">Idiom Search</string>
+    <string name="main_tv_pictxt">Photo and Text Search</string>
+    <string name="main_tv_one">Daily Sentence</string>
+</resources>
