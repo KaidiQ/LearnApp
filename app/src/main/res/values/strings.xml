@@ -6,4 +6,9 @@
     <string name="main_tv_chengyu">Idiom Search</string>
     <string name="main_tv_pictxt">Photo and Text Search</string>
     <string name="main_tv_one">Daily Sentence</string>
+
+    <string name="chengyu_tv_history" translatable="false">History</string>
+    <string name="chengyu_et_hint" translatable="false">Please enter the query idiom(成语)...</string>
+
+    <string name="indetify_img" translatable="false">Identify image</string>
 </resources>
