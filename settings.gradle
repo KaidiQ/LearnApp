@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Learn_Chinese_App"
 include ':app'
+
+include ':library'

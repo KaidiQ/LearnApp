@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1030285685676",
+    "project_id": "learnapp-1c397",
+    "storage_bucket": "learnapp-1c397.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030285685676:android:c894084143dbe3b4d74009",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.a0547574.learn_chinese_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030285685676-petuscjocbeldm001fj9lajqcggbnckf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdu1Ym7sXtNqAE1Q4teX_jczCoxuPBtj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030285685676-petuscjocbeldm001fj9lajqcggbnckf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
