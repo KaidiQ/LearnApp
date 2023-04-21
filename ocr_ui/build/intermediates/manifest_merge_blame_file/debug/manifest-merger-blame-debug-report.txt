@@ -1,0 +1,53 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--   ~ Copyright (C) 2017 Baidu, Inc. All Rights Reserved. -->
+3<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+4    package="com.baidu.ocr.ui" >
+5
+6    <uses-sdk android:minSdkVersion="21" />
+6-->D:\New\LearnApp - Copy\ocr_ui\src\main\AndroidManifest.xml
+7
+8    <uses-permission android:name="android.permission.CAMERA" />
+8-->D:\New\LearnApp - Copy\ocr_ui\src\main\AndroidManifest.xml:7:5-64
+8-->D:\New\LearnApp - Copy\ocr_ui\src\main\AndroidManifest.xml:7:22-62
+9    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+9-->D:\New\LearnApp - Copy\ocr_ui\src\main\AndroidManifest.xml:8:5-79
+9-->D:\New\LearnApp - Copy\ocr_ui\src\main\AndroidManifest.xml:8:22-77
+10    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+10-->D:\New\LearnApp - Copy\ocr_ui\src\main\AndroidManifest.xml:9:5-80
+10-->D:\New\LearnApp - Copy\ocr_ui\src\main\AndroidManifest.xml:9:22-78
+11
+12    <uses-feature android:name="android.hardware.camera2.full" />
+12-->D:\New\LearnApp - Copy\ocr_ui\src\main\AndroidManifest.xml:10:5-65
+12-->D:\New\LearnApp - Copy\ocr_ui\src\main\AndroidManifest.xml:10:19-63
+13    <uses-feature android:name="android.hardware.camera" />
+13-->D:\New\LearnApp - Copy\ocr_ui\src\main\AndroidManifest.xml:11:5-59
+13-->D:\New\LearnApp - Copy\ocr_ui\src\main\AndroidManifest.xml:11:19-57
+14    <uses-feature android:name="android.hardware.camera.autofocus" />
+14-->D:\New\LearnApp - Copy\ocr_ui\src\main\AndroidManifest.xml:12:5-70
+14-->D:\New\LearnApp - Copy\ocr_ui\src\main\AndroidManifest.xml:12:19-67
+15
+16    <application
+16-->D:\New\LearnApp - Copy\ocr_ui\src\main\AndroidManifest.xml:14:5-25:19
+17        android:allowBackup="true"
+17-->D:\New\LearnApp - Copy\ocr_ui\src\main\AndroidManifest.xml:14:18-44
+18        android:icon="@mipmap/ic_launcher"
+18-->D:\New\LearnApp - Copy\ocr_ui\src\main\AndroidManifest.xml:16:18-52
+19        android:label="@string/app_name"
+19-->D:\New\LearnApp - Copy\ocr_ui\src\main\AndroidManifest.xml:15:18-50
+20        android:supportsRtl="true"
+20-->D:\New\LearnApp - Copy\ocr_ui\src\main\AndroidManifest.xml:17:18-44
+21        android:theme="@style/AppTheme"
+21-->D:\New\LearnApp - Copy\ocr_ui\src\main\AndroidManifest.xml:19:18-49
+22        android:vmSafeMode="true" >
+22-->D:\New\LearnApp - Copy\ocr_ui\src\main\AndroidManifest.xml:18:18-43
+23        <activity
+23-->D:\New\LearnApp - Copy\ocr_ui\src\main\AndroidManifest.xml:21:9-23:85
+24            android:name="com.baidu.ocr.ui.camera.CameraActivity"
+24-->D:\New\LearnApp - Copy\ocr_ui\src\main\AndroidManifest.xml:21:19-72
+25            android:configChanges="screenSize|orientation"
+25-->D:\New\LearnApp - Copy\ocr_ui\src\main\AndroidManifest.xml:22:19-65
+26            android:theme="@android:style/Theme.Holo.NoActionBar.Fullscreen" />
+26-->D:\New\LearnApp - Copy\ocr_ui\src\main\AndroidManifest.xml:23:19-83
+27    </application>
+28
+29</manifest>

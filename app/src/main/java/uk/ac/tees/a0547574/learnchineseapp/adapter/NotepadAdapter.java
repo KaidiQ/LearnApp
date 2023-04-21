@@ -1,4 +1,4 @@
-package uk.ac.tees.a0547574.learn_chinese_app.adapter;
+package uk.ac.tees.a0547574.learnchineseapp.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -7,8 +7,8 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import uk.ac.tees.a0547574.learn_chinese_app.Info.NotepadBean;
-import uk.ac.tees.a0547574.learn_chinese_app.R;
+import uk.ac.tees.a0547574.learnchineseapp.Info.NotepadBean;
+import uk.ac.tees.a0547574.learnchineseapp.R;
 
 import java.util.List;
 

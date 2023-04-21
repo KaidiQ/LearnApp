@@ -6,9 +6,20 @@
     <string name="main_tv_chengyu">Idiom Search</string>
     <string name="main_tv_pictxt">Photo and Text Search</string>
     <string name="main_tv_one">Daily Sentence</string>
+    <string name="word_tv_info" translatable="false">文字详情Details of text</string>
+    <string name="word_tv_basicjs" translatable="false">基本释义Basic definition</string>
+    <string name="word_tv_desjs" translatable="false">详细解释Detailed explanation</string>
 
     <string name="chengyu_tv_history" translatable="false">History</string>
+    <string name="chengyu_tv_info" translatable="false">成语详情Details of idioms</string>
     <string name="chengyu_et_hint" translatable="false">Please enter the query idiom(成语)...</string>
 
     <string name="indetify_img" translatable="false">Identify image</string>
+
+    <string name="setting" translatable="false">Setting</string>
+    <string name="setting_collect" translatable="false">Collect</string>
+    <string name="setting_feedback" translatable="false">Feedback</string>
+    <string name="setting_share" translatable="false">Share</string>
+    <string name="setting_good" translatable="false">Favorable receptions</string>
+    <string name="setting_about" translatable="false">About us</string>
 </resources>

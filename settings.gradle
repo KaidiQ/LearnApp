@@ -14,3 +14,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "LearnChineseApp"
 include ':app'
+
+include ':library'
+include ':ocr_ui'
+include ':refresh_library'

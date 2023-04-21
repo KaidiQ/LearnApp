@@ -11,9 +11,9 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
-import uk.ac.tees.a0547574.learn_chinese_app.adapter.NotepadAdapter;
-import uk.ac.tees.a0547574.learn_chinese_app.Info.NotepadBean;
-import uk.ac.tees.a0547574.learn_chinese_app.Database.SQLiteHelper;
+import uk.ac.tees.a0547574.learnchineseapp.adapter.NotepadAdapter;
+import uk.ac.tees.a0547574.learnchineseapp.Info.NotepadBean;
+import uk.ac.tees.a0547574.learnchineseapp.Database.SQLiteHelper;
 
 public class UserActivity extends AppCompatActivity {
     @Override

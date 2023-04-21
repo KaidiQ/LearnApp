@@ -1,4 +1,4 @@
-package uk.ac.tees.a0547574.learn_chinese_app.Info;
+package uk.ac.tees.a0547574.learnchineseapp.Info;
 
 public class NotepadBean {
     private String id;  //记录的id
@@ -28,6 +28,7 @@ public class NotepadBean {
     public void setNotepadTime(String notepadTime){
         this.notepadTime=notepadTime;
     }
+
 
 }
 

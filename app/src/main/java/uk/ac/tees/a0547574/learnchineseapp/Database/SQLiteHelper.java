@@ -1,4 +1,4 @@
-package uk.ac.tees.a0547574.learn_chinese_app.Database;
+package uk.ac.tees.a0547574.learnchineseapp.Database;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -6,8 +6,8 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
-import uk.ac.tees.a0547574.learn_chinese_app.Info.NotepadBean;
-import uk.ac.tees.a0547574.learn_chinese_app.Util.DBUtils;
+import uk.ac.tees.a0547574.learnchineseapp.Info.NotepadBean;
+import uk.ac.tees.a0547574.learnchineseapp.Util.DBUtils;
 
 import java.util.ArrayList;
 import java.util.List;

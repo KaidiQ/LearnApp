@@ -9,8 +9,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
-import uk.ac.tees.a0547574.learn_chinese_app.Database.SQLiteHelper;
-import uk.ac.tees.a0547574.learn_chinese_app.Util.DBUtils;
+import uk.ac.tees.a0547574.learnchineseapp.Database.SQLiteHelper;
+import uk.ac.tees.a0547574.learnchineseapp.Util.DBUtils;
 
 
 public class RecordActivity extends AppCompatActivity implements View.OnClickListener {

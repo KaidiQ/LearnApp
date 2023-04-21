@@ -1,4 +1,4 @@
-package uk.ac.tees.a0547574.learn_chinese_app.Util;
+package uk.ac.tees.a0547574.learnchineseapp.Util;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
